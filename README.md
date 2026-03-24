@@ -1,6 +1,7 @@
 # Tech Challenge 3 - Previsão de atrasos de voos
 
-! ATENÇÃO - a pasta data está vazia pois o arquivo flight.csv é muito grande para subir no git, para executar o código localmente é necessário transferir o arquivo para a pasta data.
+! ATENÇÃO !
+O arquivo usado de base de dados flights.csv é muito grande e por isso não foi feito upload para o git, portanto para executar o código localmente é necessário criar a pasta data e transferir o arquivo para ela.
 
 ## Objetivo
 Prever se um voo vai atrasar e identificar padrões de atraso utilizando aprendizado supervisionado e não supervisionado.
