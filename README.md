@@ -13,17 +13,19 @@ Flights.csv contendo informações de voos nos EUA.
 
 ### 1. Análise exploratória (EDA)
 - Exploração dos dados
-- Identificação de variáveis relevantes que podem ser usadas como features 
+- Análises estatísticas
+- Identificação de variáveis relevantes para serem usadas como features 
 
-### 2. Aprendizado supervisionado
+### 2. Aprendizado supervisionado (classificação)
 - Regressão Logística
 - Árvore de Decisão
 
-### 3. Aprendizado não supervisionado
-- Clusterização com K-Means 
+### 3. Aprendizado não supervisionado (clusterização)
+- K-Means 
 
 ## Tecnologias
 - Python
 - Pandas
 - Scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
